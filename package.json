@@ -15,6 +15,7 @@
     "deploy": "yarn workspace @se-2/hardhat deploy",
     "verify": "yarn workspace @se-2/hardhat verify",
     "hardhat-verify": "yarn workspace @se-2/hardhat hardhat-verify",
+    "hardhat-help": "yarn workspace @se-2/hardhat hardhat-help",
     "compile": "yarn workspace @se-2/hardhat compile",
     "generate": "yarn workspace @se-2/hardhat generate",
     "flatten": "yarn workspace @se-2/hardhat flatten",
