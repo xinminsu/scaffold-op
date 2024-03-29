@@ -14,7 +14,9 @@
     "test": "REPORT_GAS=true hardhat test --network hardhat",
     "verify": "hardhat etherscan-verify",
     "hardhat-verify": "hardhat verify",
-    "hardhat-help": "hardhat help"
+    "hardhat-help": "hardhat help",
+    "clean": "hardhat clean",
+    "console": "hardhat console"
   },
   "devDependencies": {
     "@ethersproject/abi": "^5.7.0",
